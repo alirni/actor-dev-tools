@@ -1,0 +1,17 @@
+{
+  "name": "Actor DevTools",
+  "description": "DevTools for actor modle",
+  "version": "0.0",
+  "manifest_version": 3,
+  "author": "Ali Ramezani",
+  "icons": {
+    "16": "asset/adt16.png",
+    "48": "asset/adt48.png",
+    "128": "asset/adt128.png"
+  },
+  "permissions": ["storage"],
+  "action": {
+    "default_title": "Actor DevTools",
+    "default_popup": "popup.html"
+  }
+}
