@@ -1,2 +1,2 @@
 # actor-dev-tools
-Actor Dev Tools For Browsers
+Actor DevTools For Browsers
